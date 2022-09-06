@@ -1,0 +1,13 @@
+{
+  "name": "rescript-react-jsx-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rescript/react": "mattdamon108/rescript-react#master",
+    "rescript": "rescript-lang/rescript-compiler#master"
+  },
+  "scripts": {
+    "start": "rescript build -w"
+  }
+}
